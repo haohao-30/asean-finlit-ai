@@ -21,3 +21,5 @@ pip install -r requirements.txt
 
 # 5. Run app
 streamlit run xixixi.py
+
+#Youtube link : http://youtube.com/watch?v=HUbtdNHSyLQ
